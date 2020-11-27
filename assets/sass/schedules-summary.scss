@@ -1,0 +1,17 @@
+#schedules-address-form {
+    header {
+        h1 {
+            text-align: center;
+            small {
+                display: flex;
+            }
+        }
+    }
+    main {
+        form {
+            #schedule_at {
+               font-size: 20px;
+            }
+        }
+    }
+}

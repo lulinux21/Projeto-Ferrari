@@ -2019,4 +2019,14 @@ header.page-title hr {
   background-color: var(--blue);
 }
 
+#schedules-address-form header h1 {
+  text-align: center;
+}
+#schedules-address-form header h1 small {
+  display: flex;
+}
+#schedules-address-form main form #schedule_at {
+  font-size: 20px;
+}
+
 /*# sourceMappingURL=main.css.map */
